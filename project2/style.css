@@ -1,0 +1,105 @@
+.navbar {
+    background-color: #2C3E50!important;
+    padding: 24px;
+}
+.container .navbar-brand{
+    
+    color: white;
+    font-size: 28px;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+}
+.container .navbar-brand:hover{
+    color: white;
+}
+.form-inline .navbar-brand{
+    padding-left: 1rem !important;
+    font-size: 16px;
+}
+.form-inline .navbar-brand:hover{
+color: #1FAC88;
+}
+
+/* /NAV */
+
+/* start */
+.head{
+    background-color: #1ABC9C;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+.t-head{
+    font-size: 64px;
+}
+span .fas{
+    padding-left: 8px;
+    font-size: 35px;
+
+}
+.b-head p{
+    font-size: 24px;
+}
+/* /START */
+
+/* PORTFOLIO */
+.po-body{
+    padding: 96px;
+    color: #2C3E50;
+}
+.po-body h1{
+    font-size: 48px;
+}
+/* 
+.card-group a:hover{
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.2s ease-in-out;
+} */
+/* /PORTFOLIO */
+
+/* ABOUT */
+.b-about{
+    padding: 100px;
+    color: white;
+    background-color: #1ABC9C;
+}
+.b-about .tb-about{
+    text-align: left;
+    font-size: 20px;   
+}
+/* /ABOUT */
+/* CONTACT */
+.b-contact{
+    font-size: 48px;
+    font-weight: 700;
+    color: #2c3e50;
+    padding: 96px;
+}
+.form-control{
+    margin: auto;
+    width: 800px;
+}
+/* /CONTACT */
+
+/* footer */
+.page-footer{
+    padding: 80px 40px;
+    background-color: #2C3E50;
+    color: white;
+}
+.text-uppercase{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.f-s{
+    font-size: 20px;
+}
+
+.footer-copyright{
+    background-color: #1A252F;
+    color: white;
+}
+/* /footer */
